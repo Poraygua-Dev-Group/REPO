@@ -4,7 +4,7 @@
 
 - **Nome:** Yhann Matheus
 - **GitHub:** [@YhannMatheus](https://github.com/YhannMatheus)
-- **LinkedIn:** [Yhann Matheus](https://linkedin.com/in/yhann-matheus) 
+- **LinkedIn:** [Yhann Matheus](https://www.linkedin.com/in/yhannmatheus) 
 - **Posição:** Fundador da Comunidade Porãygua & Desenvolvedor Desktop/Back-end
 - **Data da Apresentação:** 01/08/2024
 
@@ -72,23 +72,13 @@ Apresentação sobre minha jornada como desenvolvedor desktop e back-end, aborda
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
 - [Docker Documentation](https://docs.docker.com/)
 
-### 📁 Arquivos da Apresentação
-- **Slides:** [Stack Completa - Slides](https://slides.com/yhann/stack-completa)
-- **Código:** [stack-examples](https://github.com/YhannMatheus/stack-examples)
-- **Demo:** [Projeto Multi-Stack](https://demo.poraygua.dev)
-
-## 🎥 Gravação
-
-- **YouTube:** [Stack Completa para Desktop/Back-end - Porãygua](https://youtube.com/watch?v=exemplo)
-- **Duração:** 60 minutos
 
 ## 💬 Contato
 
 Fundador da Porãygua e desenvolvedor apaixonado! Vamos conversar sobre desenvolvimento:
 
-- **Discord:** yhann#1234
-- **Twitter:** [@yhannmatheus](https://twitter.com/yhannmatheus)
-- **Email:** yhann@poraygua.dev
+- **Discord:** luk3c4g3
+- **Email:** yhann.mendes@poraygua.com.br
 
 ## 📝 Notas Adicionais
 
