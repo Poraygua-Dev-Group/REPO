@@ -1,0 +1,71 @@
+# 🌊 Porãygua Git Training Repository - .gitignore
+
+# Arquivos do sistema operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Arquivos de IDE/Editor
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dependências (caso alguém adicione código)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+
+# Arquivos de build
+dist/
+build/
+*.egg-info/
+
+# Arquivos sensíveis (não committar)
+.env
+.env.local
+*.key
+*.pem
+config.json
+
+# Backup files
+*.bak
+*.backup
+
+# Presentation files (opcional - descomente se quiser ignorar)
+# *.pptx
+# *.ppt
+# *.pdf
+
+# Cache
+.cache/
+*.cache
