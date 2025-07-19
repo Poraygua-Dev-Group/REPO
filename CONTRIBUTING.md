@@ -4,60 +4,60 @@ Este guia vai te ajudar a contribuir para o repositório de treinamento da comun
 
 ## 📋 Pré-requisitos
 
-- Conta no GitHub
-- Git instalado no seu computador
-- Editor de texto (VS Code, Vim, Nano, etc.)
+* Conta no GitHub
+* Git instalado no seu computador
+* Editor de texto (VS Code, Vim, Nano, etc.)
 
 ## 🔄 Fluxo de Contribuição
 
-### 1. Fork do Repositório
+### 1\. Fork do Repositório
 
 1. Acesse o repositório original: `YhannMatheus/Rank.gg`
 2. Clique no botão **Fork** no canto superior direito
 3. Selecione sua conta para criar o fork
 
-### 2. Clone do Fork
+### 2\. Clone do Fork
 
-```bash
-git clone https://github.com/SEU_USUARIO/Rank.gg.git
-cd Rank.gg
+``` bash
+git clone https://github.com/Poraygua-Dev-Group/REPO.git
+cd REPO
 ```
 
-### 3. Configurar Remote Upstream
+### 3\. Configurar Remote Upstream
 
-```bash
-git remote add upstream https://github.com/YhannMatheus/Rank.gg.git
+``` bash
+git remote add upstream https://github.com/Poraygua-Dev-Group/REPO.git
 git remote -v
 ```
 
-### 4. Criar uma Branch
+### 4\. Criar uma Branch
 
-```bash
+``` bash
 git checkout -b apresentacao/seu-nome
 # Exemplo: git checkout -b apresentacao/joao-silva
 ```
 
-### 5. Fazer suas Mudanças
+### 5\. Fazer suas Mudanças
 
-- Copie o arquivo `exemplo-apresentacao.md`
-- Renomeie para `seu-nome.md`
-- Coloque na pasta `apresentacoes/`
-- Preencha com suas informações
+* Copie o arquivo `exemplo-apresentacao.md`
+* Renomeie para `seu-nome.md`
+* Coloque na pasta `apresentacoes/`
+* Preencha com suas informações
 
-### 6. Commit das Mudanças
+### 6\. Commit das Mudanças
 
-```bash
+``` bash
 git add .
 git commit -m "feat: adiciona apresentação de [Seu Nome]"
 ```
 
-### 7. Push para seu Fork
+### 7\. Push para seu Fork
 
-```bash
+``` bash
 git push origin apresentacao/seu-nome
 ```
 
-### 8. Criar Pull Request
+### 8\. Criar Pull Request
 
 1. Acesse seu fork no GitHub
 2. Clique em **Compare & pull request**
@@ -68,34 +68,35 @@ git push origin apresentacao/seu-nome
 
 Use os seguintes prefixos nos seus commits:
 
-- `feat:` - Nova funcionalidade ou apresentação
-- `fix:` - Correção de bugs
-- `docs:` - Mudanças na documentação
-- `style:` - Formatação, sem mudança de código
-- `refactor:` - Refatoração de código
-- `test:` - Adição ou correção de testes
+* `feat:` \- Nova funcionalidade ou apresentação
+* `fix:` \- Correção de bugs
+* `docs:` \- Mudanças na documentação
+* `style:` \- Formatação\, sem mudança de código
+* `refactor:` \- Refatoração de código
+* `test:` \- Adição ou correção de testes
 
 **Exemplos:**
-- `feat: adiciona apresentação sobre Docker`
-- `fix: corrige link quebrado no README`
-- `docs: atualiza instruções de contribuição`
+
+* `feat: adiciona apresentação sobre Docker`
+* `fix: corrige link quebrado no README`
+* `docs: atualiza instruções de contribuição`
 
 ## 📁 Estrutura de Apresentação
 
 Sua apresentação deve seguir o template em `exemplo-apresentacao.md` e incluir:
 
-- **Nome e GitHub**: Identificação
-- **Título**: Tema da apresentação
-- **Resumo**: Breve descrição
-- **Tópicos**: Lista dos pontos abordados
-- **Recursos**: Links e materiais de apoio
-- **Contato**: Como te encontrar
+* **Nome e GitHub**: Identificação
+* **Título**: Tema da apresentação
+* **Resumo**: Breve descrição
+* **Tópicos**: Lista dos pontos abordados
+* **Recursos**: Links e materiais de apoio
+* **Contato**: Como te encontrar
 
 ## 🎯 Dicas de Git
 
 ### Manter Fork Atualizado
 
-```bash
+``` bash
 git fetch upstream
 git checkout main
 git merge upstream/main
@@ -111,7 +112,7 @@ git push origin main
 
 ### Comandos Úteis
 
-```bash
+``` bash
 # Ver status
 git status
 
@@ -130,17 +131,17 @@ git checkout -- arquivo.md
 
 ## ❓ Precisa de Ajuda?
 
-- Abra uma **Issue** descrevendo sua dúvida
-- Pergunte no canal da comunidade Porãygua
-- Consulte a [documentação oficial do Git](https://git-scm.com/doc)
+* Abra uma **Issue** descrevendo sua dúvida
+* Pergunte no canal da comunidade Porãygua
+* Consulte a [documentação oficial do Git](https://git-scm.com/doc)
 
 ## 🌊 Código de Conduta
 
-- Seja respeitoso com todos os membros
-- Mantenha discussões construtivas
-- Ajude outros membros quando possível
-- Divirta-se aprendendo!
+* Seja respeitoso com todos os membros
+* Mantenha discussões construtivas
+* Ajude outros membros quando possível
+* Divirta-se aprendendo!
 
----
+- - -
 
 **Obrigado por contribuir com a comunidade Porãygua! 🎉**
